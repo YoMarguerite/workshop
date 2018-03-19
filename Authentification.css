@@ -1,0 +1,75 @@
+html{
+    margin:0;
+    padding:0;
+    background-size:cover;
+    min-width : 500px;
+    font-family:georgia;
+    margin:auto;
+    -webkit-background-size:cover;
+    background-image:url(background_image);
+    background-repeat:no-repeat;
+    background-size:cover;
+}
+
+
+h1{
+    max-width:500px;
+    margin-left: 10%;
+    background-color: #999999;
+    background-size: cover;
+    margin: auto;
+    background-color: #ccc;
+    border: 1px solid black;
+    border-radius: 3px;
+    box-shadow:3px 3px 10px #555;
+}
+
+h3{
+    max-width:500px;
+    background-color: #999999;
+    background-size: cover;
+    margin: auto;
+    background-color: #ccc;
+    border: 1px solid black;
+    border-radius: 3px;
+    box-shadow:3px 3px 10px #555;
+}
+
+
+.ok{
+    background-color:#999999;
+    border: 1px solid black;
+    color:black;
+    text-decoration: none;
+    border-radius:2px;
+    box-shadow:3px 3px 2px #555;
+}
+
+
+.ok:focus{
+    background-color:grey;
+    border: 1px solid black;
+    color:black;
+    text-decoration: none;
+    border-radius:2px;
+    box-shadow:3px 3px 2px #555;
+}
+
+
+.créer{
+    background-color:#999999;
+    border: 1px solid black;
+    border-radius:2px;
+    color:black;
+    text-decoration:none;
+    box-shadow:3px 3px 2px #555;
+}
+
+.créer:focus{
+    background-color:grey;
+    border: 1px solid black;
+    color:black;
+    text-decoration: none;
+    border-radius:2px;
+    box-shadow:3px 3px 2px #555;
+}
